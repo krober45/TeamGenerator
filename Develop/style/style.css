@@ -1,0 +1,31 @@
+.jumbotron {
+    background-color: #D79922 ;
+}
+
+.container {
+    max-width: 960px;
+}
+
+body { 
+    background-color: #EFE2BA;
+}
+
+.employee-card {
+    margin: auto;
+    border: solid #4056A1;
+}
+
+.card-header {
+    background-color: #F13C20 ;
+}
+
+.card-body {
+    background-color: #C5CBE3;
+}
+
+.list-group-item {
+    background-color: #C5CBE3;
+    border: none;
+    font-size: large;
+}
+
